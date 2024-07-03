@@ -1,7 +1,7 @@
 <h1 style="font-family:Verdana; color:Green;"> <center>🍃 Rice Leaf Disease Detection Using Convolutional Neural Networks</center> </h1>
 <p><center style="color:yellow; font-family:Helvetica; font-size:20px;">A Comprehensive Notebook Outlining a Transfer Learning approach for Rice Leaf Disease Classification</center></p>
 <hr>
-<center><img src='../input/rice-tree-img/riceleaf.jpg' height='150px' width='400px'></center>
+<center><img src='https://www.mdpi.com/sensors/sensors-20-00578/article_deploy/html/images/sensors-20-00578-g001.png' height='150px' width='400px'></center>
 <br>
 
 # 🔬Overview 
